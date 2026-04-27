@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Chromd Art Kenya</title>
+<title>Chrome Art Kenya</title>
 
 <style>
 body {
@@ -112,7 +112,7 @@ footer {
 
         <div class="card">
             <h3 class="gold">Nails</h3>
-            <p>Gel Polish – KES 1,500</p>
+            <p>Gel Polish – KES 500</p>     
             <p>Acrylic Full Set – KES 3,000</p>
             <p>Manicure – KES 1,000</p>
             <p>Pedicure – KES 1,200</p>
